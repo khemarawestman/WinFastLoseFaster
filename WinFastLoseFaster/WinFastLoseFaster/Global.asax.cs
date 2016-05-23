@@ -16,6 +16,7 @@ namespace WinFastLoseFaster
 
             //Nicke, from local master
             //Alex, from local master
+            //Alex är king
         }
     }
 }
