@@ -13,6 +13,8 @@ namespace WinFastLoseFaster
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            //Nicke, from local master
         }
     }
 }
