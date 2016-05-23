@@ -15,7 +15,6 @@ namespace WinFastLoseFaster
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
             //Nicke, from local master
-            //Nicke, from myBranch
             //Alex, from local master
         }
     }
